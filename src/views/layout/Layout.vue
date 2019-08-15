@@ -18,6 +18,7 @@
 </template>
 
 <script>
+// 边框在这里组装
 import Navbar from './Navbar'
 import Sidebar from './Sidebar'
 import AppMain from './AppMain'
